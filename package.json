@@ -1,0 +1,14 @@
+{
+  "name": "curl-test",
+  "version": "1.0.0",
+  "description": "Simple Curl Test",
+  "main": "curl.js",
+  "scripts": {
+    "test": "node curl.js"
+  },
+  "author": "v4r1able",
+  "license": "ISC",
+  "dependencies": {
+    "curlrequest": "^1.0.1"
+  }
+}
