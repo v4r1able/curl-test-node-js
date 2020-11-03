@@ -1,2 +1,4 @@
 # curl-test-node-js
-curlrequest test node.js
+Simple Curl Test
+
+node curl.js
